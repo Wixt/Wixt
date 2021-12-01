@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/Wixt/count.svg)
+![](https://komarev.com/ghpvc/?username=Wixt)
