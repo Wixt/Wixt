@@ -3,4 +3,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Wixt&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?wixt&theme=radical)
